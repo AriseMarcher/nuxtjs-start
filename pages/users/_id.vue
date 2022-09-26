@@ -2,7 +2,7 @@
   <div>
     <h1>
       UserPage
-      <p>this.$route.params.id</p>
+      <p>{{this.$route.params.id}}</p>
     </h1>
   </div>
 </template>
