@@ -1,0 +1,14 @@
+{
+  "name": "04-nextjs-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nuxt": "^2.15.8"
+  }
+}
