@@ -1,14 +1,14 @@
 <template>
   <div>
     <h1>
-      Hello Nuxt.js!
+      Layout/default.vue组件!
     </h1>
+    <nuxt />
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HomePage',
-  layout: 'foo'
+  name: 'LayoutDefault'
 }
 </script>
